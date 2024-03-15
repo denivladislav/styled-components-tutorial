@@ -1,5 +1,5 @@
 # styled-components-tutorial
-This simple project was created in order to get familiar with styled-components.
+This simple project (site landing) was created in order to get familiar with styled-components.
 
 
 
