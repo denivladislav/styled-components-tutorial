@@ -1,6 +1,7 @@
 # styled-components-tutorial
 This simple project (site landing) was created in order to get familiar with styled-components.
 
+![landing](https://github.com/denivladislav/styled-components-tutorial/assets/71961494/0265c586-07a1-4d44-a66f-443e42ec454d)
 
 
 # Getting Started with Create React App
